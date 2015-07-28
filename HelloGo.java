@@ -5,6 +5,6 @@ public class HelloGo{
 		System.out.println("Hello go2");
 	}
 	public String getName(String name){
-		return name+"go12";
+		return name+"go12345678";
 	}
 }
